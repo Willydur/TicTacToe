@@ -1,6 +1,6 @@
 # TicTacToe
 
-## SUPINFO project
+###  SUPINFO project for js cours
 
 juste a simple TicTacToe in JavaScript
 
